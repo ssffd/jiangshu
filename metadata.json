@@ -1,0 +1,327 @@
+{
+  "column_yanzhu": {
+    "name": "檐柱(小檐柱)",
+    "category": "柱类",
+    "unit": "mm"
+  },
+  "column_jinzhu": {
+    "name": "金柱(老檐柱)",
+    "category": "柱类",
+    "unit": "mm"
+  },
+  "column_zhongzhu": {
+    "name": "中柱",
+    "category": "柱类",
+    "unit": "mm"
+  },
+  "column_shanzhu": {
+    "name": "山柱",
+    "category": "柱类",
+    "unit": "mm"
+  },
+  "column_chongyan_jinzhu": {
+    "name": "重檐金柱",
+    "category": "柱类",
+    "unit": "mm"
+  },
+  "beam_baotou": {
+    "name": "抱头梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_wujia": {
+    "name": "五架梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_sanjia": {
+    "name": "三架梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_ejiao": {
+    "name": "遏角梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_suiliang": {
+    "name": "随梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_shuangbu": {
+    "name": "双步梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_danbu": {
+    "name": "单步梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_liujia": {
+    "name": "六架梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_sijia": {
+    "name": "四架梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_yueliang": {
+    "name": "月梁(顶梁)",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_changpaliang": {
+    "name": "长趴梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_duanpaliang": {
+    "name": "短趴梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_mojiaoliang": {
+    "name": "抹角梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_chengzhongliang": {
+    "name": "承重梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_caibuliang": {
+    "name": "踩步梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_tabujin": {
+    "name": "踏步金",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "beam_taipingliang": {
+    "name": "太平梁",
+    "category": "梁类",
+    "unit": "mm"
+  },
+  "tie_chuanchafang": {
+    "name": "穿插枋",
+    "category": "枋类",
+    "unit": "mm"
+  },
+  "tie_yanfang": {
+    "name": "檐枋",
+    "category": "枋类",
+    "unit": "mm"
+  },
+  "tie_jinfang": {
+    "name": "金枋",
+    "category": "枋类",
+    "unit": "mm"
+  },
+  "tie_shangjinfang": {
+    "name": "上金枋",
+    "category": "枋类",
+    "unit": "mm"
+  },
+  "tie_jifang": {
+    "name": "脊枋",
+    "category": "枋类",
+    "unit": "mm"
+  },
+  "tie_yanweifang": {
+    "name": "燕尾枋",
+    "category": "枋类",
+    "unit": "mm"
+  },
+  "purlin_yanlin": {
+    "name": "檐檩",
+    "category": "檩类",
+    "unit": "mm"
+  },
+  "purlin_jinlin": {
+    "name": "金檩",
+    "category": "檩类",
+    "unit": "mm"
+  },
+  "purlin_jilin": {
+    "name": "脊檩",
+    "category": "檩类",
+    "unit": "mm"
+  },
+  "purlin_fujimu": {
+    "name": "扶脊木",
+    "category": "檩类",
+    "unit": "mm"
+  },
+  "board_yandianban": {
+    "name": "檐垫板",
+    "category": "垫板类",
+    "unit": "mm"
+  },
+  "board_laoyandianban": {
+    "name": "老檐垫板",
+    "category": "垫板类",
+    "unit": "mm"
+  },
+  "board_jindianban": {
+    "name": "金垫板",
+    "category": "垫板类",
+    "unit": "mm"
+  },
+  "board_jidianban": {
+    "name": "脊垫板",
+    "category": "垫板类",
+    "unit": "mm"
+  },
+  "strut_tuodun": {
+    "name": "柁墩",
+    "category": "柱瓜类",
+    "unit": "mm"
+  },
+  "strut_jinguazhu": {
+    "name": "金瓜柱",
+    "category": "柱瓜类",
+    "unit": "mm"
+  },
+  "strut_jiguazhu": {
+    "name": "脊瓜柱",
+    "category": "柱瓜类",
+    "unit": "mm"
+  },
+  "strut_jiaobei": {
+    "name": "角背",
+    "category": "瓜柱类",
+    "unit": "mm"
+  },
+  "corner_beam_laojiao": {
+    "name": "老角梁",
+    "category": "角梁类",
+    "unit": "mm"
+  },
+  "corner_beam_zijiao": {
+    "name": "仔角梁",
+    "category": "角梁类",
+    "unit": "mm"
+  },
+  "corner_beam_youqiang": {
+    "name": "由戗",
+    "category": "角梁类",
+    "unit": "mm"
+  },
+  "corner_beam_aojiaolaojiao": {
+    "name": "凹角老角梁",
+    "category": "角梁类",
+    "unit": "mm"
+  },
+  "corner_beam_aojiaolianggai": {
+    "name": "凹角梁盖",
+    "category": "角梁类",
+    "unit": "mm"
+  },
+  "rafter_yuanchuan": {
+    "name": "圆椽",
+    "category": "椽类",
+    "unit": "mm"
+  },
+  "rafter_fangchuan": {
+    "name": "方椽",
+    "category": "椽类",
+    "unit": "mm"
+  },
+  "rafter_feichuan": {
+    "name": "飞椽",
+    "category": "椽类",
+    "unit": "mm"
+  },
+  "rafter_huajiachuan": {
+    "name": "花架椽",
+    "category": "椽类",
+    "unit": "mm"
+  },
+  "rafter_luoguochuan": {
+    "name": "罗锅椽",
+    "category": "椽类",
+    "unit": "mm"
+  },
+  "eave_dalianyan": {
+    "name": "大连檐",
+    "category": "连檐类",
+    "unit": "mm"
+  },
+  "eave_xiaolianyan": {
+    "name": "小连檐",
+    "category": "连檐类",
+    "unit": "mm"
+  },
+  "roof_board_hengwangban": {
+    "name": "横望板",
+    "category": "瓦口、衬头木",
+    "unit": "mm"
+  },
+  "roof_board_shunwangban": {
+    "name": "顺望板",
+    "category": "瓦口、衬头木",
+    "unit": "mm"
+  },
+  "roof_wakou": {
+    "name": "瓦口",
+    "category": "瓦口、衬头木",
+    "unit": "mm"
+  },
+  "roof_chentoumu": {
+    "name": "衬头木",
+    "category": "瓦口、衬头木",
+    "unit": "mm"
+  },
+  "misc_tajiaomu": {
+    "name": "踏脚木",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  },
+  "misc_caojiazhu": {
+    "name": "草架柱",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  },
+  "misc_chuan": {
+    "name": "穿",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  },
+  "misc_shanhuaban": {
+    "name": "山花板",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  },
+  "misc_bofengban": {
+    "name": "博缝板",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  },
+  "misc_gualuoban": {
+    "name": "挂落板",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  },
+  "misc_yanbianmu": {
+    "name": "沿边木",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  },
+  "misc_louban": {
+    "name": "楼板",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  },
+  "misc_lengmu": {
+    "name": "楞木",
+    "category": "歇山_悬山_楼房各部",
+    "unit": "mm"
+  }
+}

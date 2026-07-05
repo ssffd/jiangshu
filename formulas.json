@@ -1,0 +1,263 @@
+{
+  "column_yanzhu": {
+    "height": "11*D",
+    "diameter": "D"
+  },
+  "column_jinzhu": {
+    "height": "column_yanzhu_height+5*langbujia",
+    "diameter": "D+1*cun"
+  },
+  "column_zhongzhu": {
+    "height": "按实计",
+    "diameter": "D+2*cun"
+  },
+  "column_shanzhu": {
+    "height": "按实计",
+    "diameter": "D+2*cun"
+  },
+  "column_chongyan_jinzhu": {
+    "height": "按实计",
+    "diameter": "D+2*cun"
+  },
+  "beam_baotou": {
+    "length": "bujia+D",
+    "height": "1.4*D",
+    "width": "1.1*D"
+  },
+  "beam_wujia": {
+    "length": "4*bujia+2*D",
+    "height": "1.5*D",
+    "width": "1.2*D"
+  },
+  "beam_sanjia": {
+    "length": "2*bujia+2*D",
+    "height": "1.25*D",
+    "width": "0.95*D"
+  },
+  "beam_ejiao": {
+    "length": "正身梁+斜",
+    "height": "1.5*D",
+    "width": "1.2*D"
+  },
+  "beam_suiliang": {
+    "height": "D",
+    "width": "0.8*D"
+  },
+  "beam_shuangbu": {
+    "length": "2*bujia+D",
+    "height": "1.5*D",
+    "width": "1.2*D"
+  },
+  "beam_danbu": {
+    "length": "2*bujia+D",
+    "height": "1.25*D",
+    "width": "4/5*beam_shuangbu_width"
+  },
+  "beam_liujia": {
+    "height": "1.5*D",
+    "width": "1.2*D"
+  },
+  "beam_sijia": {
+    "height": "5/6*beam_liujia_height",
+    "width": "4/6*beam_liujia_width"
+  },
+  "beam_yueliang": {
+    "length": "顶步架+2*D",
+    "height": "5/6*beam_sijia_height",
+    "width": "4/5*beam_sijia_width"
+  },
+  "beam_changpaliang": {
+    "height": "1.5*D",
+    "width": "1.2*D"
+  },
+  "beam_duanpaliang": {
+    "height": "1.2*D",
+    "width": "D"
+  },
+  "beam_mojiaoliang": {
+    "height": "1.2*D~1.4*D",
+    "width": "D~1.2*D"
+  },
+  "beam_chengzhongliang": {
+    "height": "D+2*cun",
+    "width": "D"
+  },
+  "beam_caibuliang": {
+    "height": "1.5*D",
+    "width": "1.2*D"
+  },
+  "beam_tabujin": {
+    "height": "1.5*D",
+    "width": "1.2*D"
+  },
+  "beam_taipingliang": {
+    "height": "1.2*D",
+    "width": "D"
+  },
+  "tie_chuanchafang": {
+    "length": "bujia+2*D",
+    "height": "D",
+    "width": "0.8*D"
+  },
+  "tie_yanfang": {
+    "length": "随面宽",
+    "height": "D",
+    "width": "0.8*D"
+  },
+  "tie_jinfang": {
+    "length": "随面宽",
+    "height": "D",
+    "width": "0.8*D"
+  },
+  "tie_shangjinfang": {
+    "length": "随面宽",
+    "height": "0.8*D",
+    "width": "0.65*D"
+  },
+  "tie_jifang": {
+    "length": "随面宽",
+    "height": "0.8*D",
+    "width": "0.65*D"
+  },
+  "tie_yanweifang": {
+    "length": "随檩出梢",
+    "height": "同垫板",
+    "width": "0.25*D"
+  },
+  "purlin_yanlin": {
+    "diameter": "D"
+  },
+  "purlin_jinlin": {
+    "diameter": "D"
+  },
+  "purlin_jilin": {
+    "diameter": "D"
+  },
+  "purlin_fujimu": {
+    "diameter": "0.8*D"
+  },
+  "board_yandianban": {
+    "height": "0.8*D",
+    "width": "0.25*D"
+  },
+  "board_laoyandianban": {
+    "height": "0.8*D",
+    "width": "0.25*D"
+  },
+  "board_jindianban": {
+    "height": "0.65*D",
+    "width": "0.25*D"
+  },
+  "board_jidianban": {
+    "height": "0.65*D",
+    "width": "0.25*D"
+  },
+  "strut_tuodun": {
+    "length": "2*D",
+    "height": "按实计",
+    "width": "0.8*beam_wujia_width"
+  },
+  "strut_jinguazhu": {
+    "height": "按实计",
+    "width": "0.8*beam_wujia_width"
+  },
+  "strut_jiguazhu": {
+    "height": "按举架",
+    "width": "0.8*beam_sanjia_width"
+  },
+  "strut_jiaobei": {
+    "length": "bujia",
+    "height": "1/2~1/3*strut_jiguazhu_height",
+    "width": "1/3*height"
+  },
+  "corner_beam_laojiao": {
+    "height": "D",
+    "width": "2/3*D"
+  },
+  "corner_beam_zijiao": {
+    "height": "D",
+    "width": "2/3*D"
+  },
+  "corner_beam_youqiang": {
+    "height": "D",
+    "width": "2/3*D"
+  },
+  "corner_beam_aojiaolaojiao": {
+    "height": "2/3*D",
+    "width": "2/3*D"
+  },
+  "corner_beam_aojiaolianggai": {
+    "height": "2/3*D",
+    "width": "2/3*D"
+  },
+  "rafter_yuanchuan": {
+    "diameter": "1/3*D"
+  },
+  "rafter_fangchuan": {
+    "height": "1/3*D",
+    "width": "1/3*D"
+  },
+  "rafter_feichuan": {
+    "height": "1/3*D",
+    "width": "1/3*D"
+  },
+  "rafter_huajiachuan": {
+    "height": "1/3*D",
+    "width": "1/3*D"
+  },
+  "rafter_luoguochuan": {
+    "height": "1/3*D",
+    "width": "1/3*D"
+  },
+  "eave_dalianyan": {
+    "height": "1/3*D",
+    "width": "0.4*D"
+  },
+  "eave_xiaolianyan": {
+    "height": "1.5*roof_board_hengwangban_width",
+    "width": "1/3*D"
+  },
+  "roof_board_hengwangban": {
+    "width": "1/15*D"
+  },
+  "roof_board_shunwangban": {
+    "width": "1/9*D"
+  },
+  "roof_wakou": {
+    "width": "1/15*D"
+  },
+  "roof_chentoumu": {
+    "width": "1/3*D"
+  },
+  "misc_tajiaomu": {
+    "height": "D",
+    "width": "0.8*D"
+  },
+  "misc_caojiazhu": {
+    "height": "0.5*D",
+    "width": "0.5*D"
+  },
+  "misc_chuan": {
+    "height": "0.5*D",
+    "width": "0.5*D"
+  },
+  "misc_shanhuaban": {
+    "width": "1/3~1/4*D"
+  },
+  "misc_bofengban": {
+    "height": "1/3~1/4*D",
+    "width": "2~2.3*D"
+  },
+  "misc_gualuoban": {
+    "width": "0.8*rafter_yuanchuan_diameter"
+  },
+  "misc_yanbianmu": {
+    "width": "0.5*D+1*cun"
+  },
+  "misc_louban": {
+    "width": "1.5~2*cun"
+  },
+  "misc_lengmu": {
+    "width": "0.5*D+1*cun"
+  }
+}
